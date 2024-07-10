@@ -1,0 +1,1 @@
+This is the sample code for the Large Language Model project. The script fine-tuned the LLAMA 3 8B model with 4-bit quantization and LoRA as optimizations, and saved the output for toxicity analyses using the PERSPECTIVE API.
